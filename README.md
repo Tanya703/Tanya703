@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Tanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanya703)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Tanya703/Tanya703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
