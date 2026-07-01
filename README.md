@@ -1,5 +1,4 @@
 [![Header](banner.png "Header")]()
-![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=Tanya703&layout=compact&theme=github_dark)
 ## 🛠️ Tools & Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -11,7 +10,8 @@
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge)
 ![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge)
 
-### Pinned repos
+![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=Tanya703&layout=compact&theme=github_dark)
+
 
 ### 🤝 Connect with Me
 
