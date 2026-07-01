@@ -12,6 +12,10 @@
 
 ![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=Tanya703&layout=compact&theme=github_dark)
 
+## Random Dev Quute
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
 
 ### 🤝 Connect with Me
 
