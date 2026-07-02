@@ -10,7 +10,7 @@
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge)
 ![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge)
 
-![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=Tanya703&layout=compact&theme=github_dark)
+![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=Tanya703&theme=github_light&bg_color=00000000&hide_border=true&card_width=700)
 
 ### 🤝 Connect with Me
 
